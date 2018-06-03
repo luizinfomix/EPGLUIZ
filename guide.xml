@@ -1,0 +1,2459 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo - Brasilia [Brazil]">
+    <display-name lang="pt">Globo - Brasilia [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT [Brazil]">
+    <display-name lang="pt">SBT [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band News [Brazil]">
+    <display-name lang="pt">Band News [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede TV [Brazil]">
+    <display-name lang="pt">Rede TV [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record [Brazil]">
+    <display-name lang="pt">Record [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180603180000 -0300" stop="20180603210000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Domingão do Faustão</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180603210000 -0300" stop="20180603232000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Fantástico</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180603232000 -0300" stop="20180604005700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Domingo Maior: O Código</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180604005700 -0300" stop="20180604023800 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Sessão de Gala: Xingu</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180604023800 -0300" stop="20180604040600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Corujão: Procurando Mônica Velour</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180604040600 -0300" stop="20180604050000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Lendas do Amanhã</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180604050000 -0300" stop="20180604060000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604060000 -0300" stop="20180604073000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bom Dia DF</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604073000 -0300" stop="20180604085000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604085000 -0300" stop="20180604100900 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604100900 -0300" stop="20180604105000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bem Estar</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180604105000 -0300" stop="20180604120000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180604120000 -0300" stop="20180604124700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604124700 -0300" stop="20180604132000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604132000 -0300" stop="20180604140500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604140500 -0300" stop="20180604151500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Vídeo Show</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604151500 -0300" stop="20180604175300 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604175300 -0300" stop="20180604182900 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604182900 -0300" stop="20180604191700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604191700 -0300" stop="20180604193800 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604193800 -0300" stop="20180604203000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604203000 -0300" stop="20180604212200 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604212200 -0300" stop="20180604222700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604222700 -0300" stop="20180604225500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Onde Nascem os Fortes</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180604225500 -0300" stop="20180605010100 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Tela Quente</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180605010100 -0300" stop="20180605014000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605014000 -0300" stop="20180605022300 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Conversa com Bial</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180605022300 -0300" stop="20180605030900 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Ponto Cego</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180605030900 -0300" stop="20180605041800 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180605041800 -0300" stop="20180605050000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Lendas do Amanhã</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180605050000 -0300" stop="20180605060000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605060000 -0300" stop="20180605073000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bom Dia DF</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605073000 -0300" stop="20180605085000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605085000 -0300" stop="20180605100800 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605100800 -0300" stop="20180605105000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bem Estar</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180605105000 -0300" stop="20180605120000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180605120000 -0300" stop="20180605124700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605124700 -0300" stop="20180605132000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605132000 -0300" stop="20180605140400 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605140400 -0300" stop="20180605144800 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Vídeo Show</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605144800 -0300" stop="20180605163800 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605163800 -0300" stop="20180605171300 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605171300 -0300" stop="20180605175700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605175700 -0300" stop="20180605181500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605181500 -0300" stop="20180605203000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605203000 -0300" stop="20180605212500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605212500 -0300" stop="20180605222700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605222700 -0300" stop="20180605230800 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Mister Brau</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180605230800 -0300" stop="20180605235300 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Onde Nascem os Fortes</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180605235300 -0300" stop="20180606003300 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606003300 -0300" stop="20180606011600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Conversa com Bial</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180606011600 -0300" stop="20180606020200 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Ponto Cego</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180606020200 -0300" stop="20180606032500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180606032500 -0300" stop="20180606050000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Lendas do Amanhã</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180606050000 -0300" stop="20180606060000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606060000 -0300" stop="20180606073000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bom Dia DF</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606073000 -0300" stop="20180606085000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606085000 -0300" stop="20180606100900 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606100900 -0300" stop="20180606105000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bem Estar</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180606105000 -0300" stop="20180606120000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180606120000 -0300" stop="20180606124700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606124700 -0300" stop="20180606132000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606132000 -0300" stop="20180606140500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606140500 -0300" stop="20180606144500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Vídeo Show</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606144500 -0300" stop="20180606162200 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606162200 -0300" stop="20180606165600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606165600 -0300" stop="20180606173600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606173600 -0300" stop="20180606175700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606175700 -0300" stop="20180606201500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606201500 -0300" stop="20180606205600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606205600 -0300" stop="20180606214500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606214500 -0300" stop="20180606234500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Futebol 2018</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606234500 -0300" stop="20180607002500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Profissão Repórter</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607002500 -0300" stop="20180607010600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607010600 -0300" stop="20180607015000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Conversa com Bial</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180607015000 -0300" stop="20180607023600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Ponto Cego</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180607023600 -0300" stop="20180607040300 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180607040300 -0300" stop="20180607050000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Lendas do Amanhã</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180607050000 -0300" stop="20180607060000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607060000 -0300" stop="20180607073000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bom Dia DF</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607073000 -0300" stop="20180607085000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607085000 -0300" stop="20180607100900 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607100900 -0300" stop="20180607105000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bem Estar</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180607105000 -0300" stop="20180607120000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180607120000 -0300" stop="20180607124700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607124700 -0300" stop="20180607132000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607132000 -0300" stop="20180607140500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607140500 -0300" stop="20180607144500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Vídeo Show</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607144500 -0300" stop="20180607175000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607175000 -0300" stop="20180607183000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607183000 -0300" stop="20180607191500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607191500 -0300" stop="20180607194000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607194000 -0300" stop="20180607203000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607203000 -0300" stop="20180607212500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607212500 -0300" stop="20180607222500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607222500 -0300" stop="20180607232000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Carcereiros</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180607232000 -0300" stop="20180607235500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Onde Nascem os Fortes</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180607235500 -0300" stop="20180608004000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608004000 -0300" stop="20180608012000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Conversa com Bial</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180608012000 -0300" stop="20180608024500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Ponto Cego</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180608024500 -0300" stop="20180608040300 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180608040300 -0300" stop="20180608050000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Lendas do Amanhã</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180608050000 -0300" stop="20180608060000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608060000 -0300" stop="20180608073000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bom Dia DF</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608073000 -0300" stop="20180608085000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608085000 -0300" stop="20180608100900 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608100900 -0300" stop="20180608105000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Bem Estar</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180608105000 -0300" stop="20180608120000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180608120000 -0300" stop="20180608124700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608124700 -0300" stop="20180608132000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608132000 -0300" stop="20180608140500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608140500 -0300" stop="20180608144500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Vídeo Show</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608144500 -0300" stop="20180608175500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Vale a Pena Ver de Novo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608175500 -0300" stop="20180608183000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608183000 -0300" stop="20180608191500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608191500 -0300" stop="20180608194000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608194000 -0300" stop="20180608203000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608203000 -0300" stop="20180608212000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608212000 -0300" stop="20180608222500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608222500 -0300" stop="20180608231500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Globo Repórter</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180608231500 -0300" stop="20180608235800 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Onde Nascem os Fortes</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180608235800 -0300" stop="20180609004000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609004000 -0300" stop="20180609012000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Conversa com Bial</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180609012000 -0300" stop="20180609021000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Ponto Cego</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180609021000 -0300" stop="20180609035000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180609035000 -0300" stop="20180609060000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Corujão II</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180609060000 -0300" stop="20180609070000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Via Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609070000 -0300" stop="20180609090000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Como Será?</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20180609090000 -0300" stop="20180609120000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">É de Casa</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609120000 -0300" stop="20180609124700 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609124700 -0300" stop="20180609132000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609132000 -0300" stop="20180609140000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609140000 -0300" stop="20180609150900 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Sai de Baixo</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180609150900 -0300" stop="20180609155600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">As Matrioskas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180609155600 -0300" stop="20180609183600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Caldeirão do Huck</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609183600 -0300" stop="20180609191800 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180609191800 -0300" stop="20180609193600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">DF TV - 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609193600 -0300" stop="20180609203000 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180609203000 -0300" stop="20180609211800 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609211800 -0300" stop="20180609221100 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180609221100 -0300" stop="20180609224600 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Zorra</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180609224600 -0300" stop="20180610003500 -0300" channel="Globo - Brasilia [Brazil]">
+    <title lang="pt">Altas Horas</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180603200000 -0300" stop="20180604000000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Programa Silvio Santos</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604000000 -0300" stop="20180604010000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Poder em Foco</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180604010000 -0300" stop="20180604060000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604060000 -0300" stop="20180604083000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Primeiro Impacto</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604083000 -0300" stop="20180604103000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Mundo Disney</title>
+    <category lang="pt">Infantil/Diversos</category>
+  </programme>
+  <programme start="20180604103000 -0300" stop="20180604134500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20180604134500 -0300" stop="20180604141500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Informes Comerciais</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604141500 -0300" stop="20180604150000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chaves</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180604150000 -0300" stop="20180604160000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Fofocalizando</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180604160000 -0300" stop="20180604170000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Casos de Família</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180604170000 -0300" stop="20180604181500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Coração Indomável</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604181500 -0300" stop="20180604194500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604194500 -0300" stop="20180604203000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604203000 -0300" stop="20180604210000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Carinha de Anjo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604210000 -0300" stop="20180604214500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604214500 -0300" stop="20180604221500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chiquititas</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604221500 -0300" stop="20180604233000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Programa do Ratinho</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604233000 -0300" stop="20180605003000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Conexão Repórter</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605003000 -0300" stop="20180605013000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180605013000 -0300" stop="20180605060000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605060000 -0300" stop="20180605083000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Primeiro Impacto</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605083000 -0300" stop="20180605103000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Mundo Disney</title>
+    <category lang="pt">Infantil/Diversos</category>
+  </programme>
+  <programme start="20180605103000 -0300" stop="20180605134500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20180605134500 -0300" stop="20180605141500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Informes Comerciais</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605141500 -0300" stop="20180605150000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chaves</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180605150000 -0300" stop="20180605160000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Fofocalizando</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180605160000 -0300" stop="20180605170000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Casos de Família</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180605170000 -0300" stop="20180605181500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Coração Indomável</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605181500 -0300" stop="20180605194500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605194500 -0300" stop="20180605203000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605203000 -0300" stop="20180605210000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Carinha de Anjo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605210000 -0300" stop="20180605214500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605214500 -0300" stop="20180605221500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chiquititas</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605221500 -0300" stop="20180605231500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Programa do Ratinho</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605231500 -0300" stop="20180606010000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Cine Espetacular</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180606010000 -0300" stop="20180606020000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180606020000 -0300" stop="20180606060000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606060000 -0300" stop="20180606083000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Primeiro Impacto</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606083000 -0300" stop="20180606103000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Mundo Disney</title>
+    <category lang="pt">Infantil/Diversos</category>
+  </programme>
+  <programme start="20180606103000 -0300" stop="20180606134500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20180606134500 -0300" stop="20180606141500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Informes Comerciais</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606141500 -0300" stop="20180606150000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chaves</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180606150000 -0300" stop="20180606160000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Fofocalizando</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180606160000 -0300" stop="20180606170000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Casos de Família</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180606170000 -0300" stop="20180606181500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Coração Indomável</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606181500 -0300" stop="20180606194500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606194500 -0300" stop="20180606203000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606203000 -0300" stop="20180606210000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Carinha de Anjo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606210000 -0300" stop="20180606214500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606214500 -0300" stop="20180606221500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chiquititas</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606221500 -0300" stop="20180606224500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Pião da Casa Própria</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606224500 -0300" stop="20180607003000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Programa do Ratinho</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607003000 -0300" stop="20180607013000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180607013000 -0300" stop="20180607060000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607060000 -0300" stop="20180607083000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Primeiro Impacto</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607083000 -0300" stop="20180607103000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Mundo Disney</title>
+    <category lang="pt">Infantil/Diversos</category>
+  </programme>
+  <programme start="20180607103000 -0300" stop="20180607134500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20180607134500 -0300" stop="20180607141500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Informes Comerciais</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607141500 -0300" stop="20180607150000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chaves</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180607150000 -0300" stop="20180607160000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Fofocalizando</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180607160000 -0300" stop="20180607170000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Casos de Família</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180607170000 -0300" stop="20180607181500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Coração Indomável</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607181500 -0300" stop="20180607194500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607194500 -0300" stop="20180607203000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607203000 -0300" stop="20180607211500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607211500 -0300" stop="20180607221500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chiquititas</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607221500 -0300" stop="20180607231500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Programa do Ratinho</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607231500 -0300" stop="20180608003000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">A Praça é Nossa</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180608003000 -0300" stop="20180608013000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180608013000 -0300" stop="20180608060000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608060000 -0300" stop="20180608083000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Primeiro Impacto</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608083000 -0300" stop="20180608103000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Mundo Disney</title>
+    <category lang="pt">Infantil/Diversos</category>
+  </programme>
+  <programme start="20180608103000 -0300" stop="20180608134500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20180608134500 -0300" stop="20180608141500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Informes Comerciais</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608141500 -0300" stop="20180608150000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chaves</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180608150000 -0300" stop="20180608160000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Fofocalizando</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180608160000 -0300" stop="20180608170000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Casos de Família</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180608170000 -0300" stop="20180608181500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Coração Indomável</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608181500 -0300" stop="20180608194500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608194500 -0300" stop="20180608203000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608203000 -0300" stop="20180608211500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608211500 -0300" stop="20180608221500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chiquititas</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608221500 -0300" stop="20180608231500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Programa do Ratinho</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608231500 -0300" stop="20180609010000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Tela de Sucessos</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180609010000 -0300" stop="20180609020000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180609020000 -0300" stop="20180609030000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Operação Mesquita</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180609030000 -0300" stop="20180609060000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Notícias</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609060000 -0300" stop="20180609080000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Chaves</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180609080000 -0300" stop="20180609100000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Sábado Animado</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20180609100000 -0300" stop="20180609103000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Parque Patati Patatá</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20180609103000 -0300" stop="20180609123000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Mundo Disney</title>
+    <category lang="pt">Infantil/Diversos</category>
+  </programme>
+  <programme start="20180609123000 -0300" stop="20180609141500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Informes Comerciais</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609141500 -0300" stop="20180609184500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Programa Raul Gil</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609184500 -0300" stop="20180609194500 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SuperNanny</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20180609194500 -0300" stop="20180609203000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">SBT Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609203000 -0300" stop="20180609213000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Esquadrão da Moda</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180609213000 -0300" stop="20180609230000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Fábrica de Casamentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180609230000 -0300" stop="20180610013000 -0300" channel="SBT [Brazil]">
+    <title lang="pt">Sobrenatural</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20180603180000 -0300" stop="20180603220000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180603220000 -0300" stop="20180603223000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Conexão com The New York Times</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180603223000 -0300" stop="20180603232000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180603232000 -0300" stop="20180603233000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Coluna e Meia com Salomão</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180603233000 -0300" stop="20180604000000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604000000 -0300" stop="20180604040000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604040000 -0300" stop="20180604050000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Canal Livre</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604050000 -0300" stop="20180604060000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604060000 -0300" stop="20180604074000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604074000 -0300" stop="20180604120000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604120000 -0300" stop="20180604140000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604140000 -0300" stop="20180604180000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604180000 -0300" stop="20180604200000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604200000 -0300" stop="20180604203000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604203000 -0300" stop="20180604213000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604213000 -0300" stop="20180604220000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604220000 -0300" stop="20180605000000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605000000 -0300" stop="20180605020000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605020000 -0300" stop="20180605024500 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605024500 -0300" stop="20180605043000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605043000 -0300" stop="20180605050000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal Terraviva</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605050000 -0300" stop="20180605060000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605060000 -0300" stop="20180605074000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605074000 -0300" stop="20180605120000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605120000 -0300" stop="20180605140000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605140000 -0300" stop="20180605180000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605180000 -0300" stop="20180605200000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605200000 -0300" stop="20180605203000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605203000 -0300" stop="20180605213000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605213000 -0300" stop="20180605220000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605220000 -0300" stop="20180606000000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606000000 -0300" stop="20180606020000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606020000 -0300" stop="20180606024500 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606024500 -0300" stop="20180606030000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606030000 -0300" stop="20180606033000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Conexão com The New York Times</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606033000 -0300" stop="20180606043000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606043000 -0300" stop="20180606050000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal Terraviva</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606050000 -0300" stop="20180606060000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606060000 -0300" stop="20180606074000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606074000 -0300" stop="20180606120000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606120000 -0300" stop="20180606140000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606140000 -0300" stop="20180606180000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606180000 -0300" stop="20180606200000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606200000 -0300" stop="20180606203000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606203000 -0300" stop="20180606213000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606213000 -0300" stop="20180606220000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606220000 -0300" stop="20180607000000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607000000 -0300" stop="20180607020000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607020000 -0300" stop="20180607024500 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607024500 -0300" stop="20180607030000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607030000 -0300" stop="20180607033000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Conexão com The New York Times</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607033000 -0300" stop="20180607043000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607043000 -0300" stop="20180607050000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal Terraviva</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607050000 -0300" stop="20180607060000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607060000 -0300" stop="20180607074000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607074000 -0300" stop="20180607120000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607120000 -0300" stop="20180607140000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607140000 -0300" stop="20180607180000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607180000 -0300" stop="20180607200000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607200000 -0300" stop="20180607203000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607203000 -0300" stop="20180607213000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607213000 -0300" stop="20180607220000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607220000 -0300" stop="20180608000000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608000000 -0300" stop="20180608020000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608020000 -0300" stop="20180608024500 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608024500 -0300" stop="20180608030000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608030000 -0300" stop="20180608033000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Ponto a Ponto</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608033000 -0300" stop="20180608043000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608043000 -0300" stop="20180608050000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal Terraviva</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608050000 -0300" stop="20180608060000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608060000 -0300" stop="20180608074000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608074000 -0300" stop="20180608120000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608120000 -0300" stop="20180608140000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608140000 -0300" stop="20180608180000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608180000 -0300" stop="20180608200000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608200000 -0300" stop="20180608203000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608203000 -0300" stop="20180608213000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608213000 -0300" stop="20180608220000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608220000 -0300" stop="20180608223000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Conexão com The New York Times</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608223000 -0300" stop="20180608235000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608235000 -0300" stop="20180609000000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Coluna e Meia com Salomão</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609000000 -0300" stop="20180609020000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609020000 -0300" stop="20180609024500 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609024500 -0300" stop="20180609043000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609043000 -0300" stop="20180609050000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal Terraviva</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609050000 -0300" stop="20180609060000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609060000 -0300" stop="20180609074000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609074000 -0300" stop="20180609090000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609090000 -0300" stop="20180609093000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Conexão com The New York Times</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609093000 -0300" stop="20180609120000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609120000 -0300" stop="20180609140000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609140000 -0300" stop="20180609153000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609153000 -0300" stop="20180609160000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Feiras &amp; Negócios</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609160000 -0300" stop="20180609173000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609173000 -0300" stop="20180609180000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Capital Natural</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609180000 -0300" stop="20180609200000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609200000 -0300" stop="20180609203000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609203000 -0300" stop="20180609213000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609213000 -0300" stop="20180609222000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609222000 -0300" stop="20180609223000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Coluna e Meia com Salomão</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609223000 -0300" stop="20180609230000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609230000 -0300" stop="20180609233000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Conexão com The New York Times</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609233000 -0300" stop="20180610000000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180603200000 -0300" stop="20180603230000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">ENCRENCA</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180603230000 -0300" stop="20180604004500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">João Kleber Show</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180604004500 -0300" stop="20180604020000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">O Céu é o Limite</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604020000 -0300" stop="20180604023000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Bola na Rede</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604023000 -0300" stop="20180604030000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Te Peguei</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180604030000 -0300" stop="20180604050000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja da Graça, Nosso Lar</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180604050000 -0300" stop="20180604083000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180604083000 -0300" stop="20180604090000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">América Shop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604090000 -0300" stop="20180604093000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Calculadora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604093000 -0300" stop="20180604104500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180604104500 -0300" stop="20180604120000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Edu Guedes e Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604120000 -0300" stop="20180604150000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180604150000 -0300" stop="20180604170000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604170000 -0300" stop="20180604180000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180604180000 -0300" stop="20180604181500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Bola na Rede</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604181500 -0300" stop="20180604184500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Operação de Risco</title>
+    <category lang="pt">Variedades/Reality Show</category>
+  </programme>
+  <programme start="20180604184500 -0300" stop="20180604192500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Denúncia Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604192500 -0300" stop="20180604203000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">RedeTV! News</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604203000 -0300" stop="20180604213000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180604213000 -0300" stop="20180604224500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">TV Fama</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604224500 -0300" stop="20180605000000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">SuperPop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605000000 -0300" stop="20180605010000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Leitura Dinâmica</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605010000 -0300" stop="20180605020000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">É Notícia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605020000 -0300" stop="20180605030000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605030000 -0300" stop="20180605050000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja da Graça, Nosso Programa</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605050000 -0300" stop="20180605083000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605083000 -0300" stop="20180605090000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">América Shop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605090000 -0300" stop="20180605093000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Calculadora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605093000 -0300" stop="20180605104500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180605104500 -0300" stop="20180605120000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Edu Guedes e Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605120000 -0300" stop="20180605150000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605150000 -0300" stop="20180605170000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605170000 -0300" stop="20180605180000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605180000 -0300" stop="20180605181500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Bola na Rede</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605181500 -0300" stop="20180605184500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Operação de Risco</title>
+    <category lang="pt">Variedades/Reality Show</category>
+  </programme>
+  <programme start="20180605184500 -0300" stop="20180605192500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Denúncia Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605192500 -0300" stop="20180605203000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">RedeTV! News</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605203000 -0300" stop="20180605213000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605213000 -0300" stop="20180605224500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">TV Fama</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605224500 -0300" stop="20180606000000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Luciana by Night</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180606000000 -0300" stop="20180606003000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Leitura Dinâmica</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606003000 -0300" stop="20180606013000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Top Game</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606013000 -0300" stop="20180606030000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606030000 -0300" stop="20180606050000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja da Graça, Nosso Programa</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606050000 -0300" stop="20180606083000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606083000 -0300" stop="20180606090000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">América Shop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606090000 -0300" stop="20180606093000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Calculadora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606093000 -0300" stop="20180606104500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180606104500 -0300" stop="20180606120000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Edu Guedes e Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606120000 -0300" stop="20180606150000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606150000 -0300" stop="20180606170000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606170000 -0300" stop="20180606180000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606180000 -0300" stop="20180606181500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Bola na Rede</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606181500 -0300" stop="20180606184500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Operação de Risco</title>
+    <category lang="pt">Variedades/Reality Show</category>
+  </programme>
+  <programme start="20180606184500 -0300" stop="20180606192500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Denúncia Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606192500 -0300" stop="20180606203000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">RedeTV! News</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606203000 -0300" stop="20180606213000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606213000 -0300" stop="20180606223000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">TV Fama</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606223000 -0300" stop="20180607000000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">SuperPop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607000000 -0300" stop="20180607003000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Leitura Dinâmica</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607003000 -0300" stop="20180607013000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Top Game</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607013000 -0300" stop="20180607020000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Te Peguei</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180607020000 -0300" stop="20180607030000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607030000 -0300" stop="20180607050000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja da Graça, Nosso Programa</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607050000 -0300" stop="20180607083000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607083000 -0300" stop="20180607090000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">América Shop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607090000 -0300" stop="20180607093000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Calculadora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607093000 -0300" stop="20180607104500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180607104500 -0300" stop="20180607120000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Edu Guedes e Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607120000 -0300" stop="20180607150000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607150000 -0300" stop="20180607170000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607170000 -0300" stop="20180607180000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607180000 -0300" stop="20180607181500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Bola na Rede</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607181500 -0300" stop="20180607184500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Operação de Risco</title>
+    <category lang="pt">Variedades/Reality Show</category>
+  </programme>
+  <programme start="20180607184500 -0300" stop="20180607192500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Denúncia Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607192500 -0300" stop="20180607203000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">RedeTV! News</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607203000 -0300" stop="20180607213000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607213000 -0300" stop="20180607224500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">TV Fama</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607224500 -0300" stop="20180608000000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Sensacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608000000 -0300" stop="20180608003000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Leitura Dinâmica</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608003000 -0300" stop="20180608013000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Top Game</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608013000 -0300" stop="20180608030000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608030000 -0300" stop="20180608050000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja da Graça, Nosso Programa</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608050000 -0300" stop="20180608083000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608083000 -0300" stop="20180608090000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">América Shop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608090000 -0300" stop="20180608093000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Calculadora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608093000 -0300" stop="20180608104500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Você na TV</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180608104500 -0300" stop="20180608120000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Edu Guedes e Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608120000 -0300" stop="20180608150000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608150000 -0300" stop="20180608170000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">A Tarde é Sua</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608170000 -0300" stop="20180608180000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608180000 -0300" stop="20180608181500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Bola na Rede</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608181500 -0300" stop="20180608184500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Operação de Risco</title>
+    <category lang="pt">Variedades/Reality Show</category>
+  </programme>
+  <programme start="20180608184500 -0300" stop="20180608192500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Denúncia Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608192500 -0300" stop="20180608203000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">RedeTV! News</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608203000 -0300" stop="20180608213000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608213000 -0300" stop="20180608222000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">TV Fama</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608222000 -0300" stop="20180608230000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Documento Verdade</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608230000 -0300" stop="20180609000000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Mariana Godoy Entrevista</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180609000000 -0300" stop="20180609003000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Leitura Dinâmica</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609003000 -0300" stop="20180609013000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Top Game</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609013000 -0300" stop="20180609030000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609030000 -0300" stop="20180609050000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja da Graça, Nosso Programa</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609050000 -0300" stop="20180609060000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Calculadora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609060000 -0300" stop="20180609070000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Missa Santa Catarina</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609070000 -0300" stop="20180609080000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Show da Saúde</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609080000 -0300" stop="20180609090000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Assembléia De Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609090000 -0300" stop="20180609093000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Presbiteriana</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609093000 -0300" stop="20180609100000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Seicho No Ie</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609100000 -0300" stop="20180609110000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Camisaria Fascynios</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609110000 -0300" stop="20180609120000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Universal</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609120000 -0300" stop="20180609130000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Assembléia De Deus Do Brás</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609130000 -0300" stop="20180609133000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Família Debaixo Da Graça</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609133000 -0300" stop="20180609140000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Show da Saúde</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609140000 -0300" stop="20180609153000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Polishop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609153000 -0300" stop="20180609193000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Top Game</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609193000 -0300" stop="20180609203000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Ritmo Brasil</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180609203000 -0300" stop="20180609213000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609213000 -0300" stop="20180609220000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">RedeTV! News</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609220000 -0300" stop="20180609230000 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">Operação de Risco</title>
+    <category lang="pt">Variedades/Reality Show</category>
+  </programme>
+  <programme start="20180609230000 -0300" stop="20180610004500 -0300" channel="Rede TV [Brazil]">
+    <title lang="pt">O Céu é o Limite</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180603193000 -0300" stop="20180603231500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Domingo Espetacular</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180603231500 -0300" stop="20180604001500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Câmera Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604001500 -0300" stop="20180604011500 -0300" channel="Record [Brazil]">
+    <title lang="pt">C.S.I. - Investigação Criminal</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20180604011500 -0300" stop="20180604021000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nação dos 318</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604021000 -0300" stop="20180604024000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <category lang="pt">Variedades/Comportamento</category>
+  </programme>
+  <programme start="20180604024000 -0300" stop="20180604034000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Saindo da Crise</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604034000 -0300" stop="20180604041000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180604041000 -0300" stop="20180604044000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Dicas de Amor</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604044000 -0300" stop="20180604050000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <category lang="pt">Variedades/Comportamento</category>
+  </programme>
+  <programme start="20180604050000 -0300" stop="20180604060000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nação dos 318</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604060000 -0300" stop="20180604063000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604063000 -0300" stop="20180604070000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604070000 -0300" stop="20180604083000 -0300" channel="Record [Brazil]">
+    <title lang="pt">SP no Ar</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604083000 -0300" stop="20180604100000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604100000 -0300" stop="20180604120000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Hoje em Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604120000 -0300" stop="20180604150000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604150000 -0300" stop="20180604154500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Luz do Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604154500 -0300" stop="20180604164500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Bicho do Mato</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604164500 -0300" stop="20180604194500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Cidade Alerta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604194500 -0300" stop="20180604204500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604204500 -0300" stop="20180604214500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Apocalipse</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180604214500 -0300" stop="20180604223000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604223000 -0300" stop="20180605000000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Power Couple Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180605000000 -0300" stop="20180605011500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programa do Porchat</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180605011500 -0300" stop="20180605020000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605020000 -0300" stop="20180605023000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Problemas e Soluções</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605023000 -0300" stop="20180605024500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605024500 -0300" stop="20180605031500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <category lang="pt">Variedades/Comportamento</category>
+  </programme>
+  <programme start="20180605031500 -0300" stop="20180605034500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Em Busca do Amor</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605034500 -0300" stop="20180605040000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605040000 -0300" stop="20180605043000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nosso Tempo</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605043000 -0300" stop="20180605050000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605050000 -0300" stop="20180605053000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605053000 -0300" stop="20180605055500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nação dos 318</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605055500 -0300" stop="20180605060000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180605060000 -0300" stop="20180605063000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605063000 -0300" stop="20180605070000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605070000 -0300" stop="20180605083000 -0300" channel="Record [Brazil]">
+    <title lang="pt">SP no Ar</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605083000 -0300" stop="20180605100000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605100000 -0300" stop="20180605120000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Hoje em Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605120000 -0300" stop="20180605150000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605150000 -0300" stop="20180605154500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Luz do Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605154500 -0300" stop="20180605164500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Bicho do Mato</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605164500 -0300" stop="20180605194500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Cidade Alerta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605194500 -0300" stop="20180605204500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605204500 -0300" stop="20180605214500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Apocalipse</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180605214500 -0300" stop="20180605223000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605223000 -0300" stop="20180606000000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Power Couple Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180606000000 -0300" stop="20180606011500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programa do Porchat</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180606011500 -0300" stop="20180606020000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606020000 -0300" stop="20180606023000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Problemas e Soluções</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606023000 -0300" stop="20180606024500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606024500 -0300" stop="20180606031500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <category lang="pt">Variedades/Comportamento</category>
+  </programme>
+  <programme start="20180606031500 -0300" stop="20180606034500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Em Busca do Amor</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606034500 -0300" stop="20180606040000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606040000 -0300" stop="20180606043000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nosso Tempo</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606043000 -0300" stop="20180606050000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606050000 -0300" stop="20180606053000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606053000 -0300" stop="20180606055500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nação dos 318</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180606055500 -0300" stop="20180606060000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180606060000 -0300" stop="20180606063000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606063000 -0300" stop="20180606070000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606070000 -0300" stop="20180606083000 -0300" channel="Record [Brazil]">
+    <title lang="pt">SP no Ar</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606083000 -0300" stop="20180606100000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606100000 -0300" stop="20180606120000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Hoje em Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606120000 -0300" stop="20180606150000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606150000 -0300" stop="20180606154500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Luz do Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606154500 -0300" stop="20180606164500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Bicho do Mato</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606164500 -0300" stop="20180606194500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Cidade Alerta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606194500 -0300" stop="20180606204500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606204500 -0300" stop="20180606214500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Apocalipse</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180606214500 -0300" stop="20180606223000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606223000 -0300" stop="20180606224500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Power Couple Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180606224500 -0300" stop="20180607000000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Batalha dos Confeiteiros Brasil</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180607000000 -0300" stop="20180607011500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programa do Porchat</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180607011500 -0300" stop="20180607020000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607020000 -0300" stop="20180607023000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Problemas e Soluções</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607023000 -0300" stop="20180607024500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607024500 -0300" stop="20180607031500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <category lang="pt">Variedades/Comportamento</category>
+  </programme>
+  <programme start="20180607031500 -0300" stop="20180607034500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Em Busca do Amor</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607034500 -0300" stop="20180607040000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607040000 -0300" stop="20180607043000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nosso Tempo</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607043000 -0300" stop="20180607050000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607050000 -0300" stop="20180607053000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607053000 -0300" stop="20180607055500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nação dos 318</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607055500 -0300" stop="20180607060000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180607060000 -0300" stop="20180607063000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607063000 -0300" stop="20180607070000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607070000 -0300" stop="20180607083000 -0300" channel="Record [Brazil]">
+    <title lang="pt">SP no Ar</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607083000 -0300" stop="20180607100000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607100000 -0300" stop="20180607120000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Hoje em Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607120000 -0300" stop="20180607150000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607150000 -0300" stop="20180607154500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Luz do Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607154500 -0300" stop="20180607164500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Bicho do Mato</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607164500 -0300" stop="20180607194500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Cidade Alerta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607194500 -0300" stop="20180607204500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607204500 -0300" stop="20180607214500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Apocalipse</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180607214500 -0300" stop="20180607223000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607223000 -0300" stop="20180608000000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Power Couple Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180608000000 -0300" stop="20180608011500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programa do Porchat</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180608011500 -0300" stop="20180608020000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608020000 -0300" stop="20180608023000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Problemas e Soluções</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608023000 -0300" stop="20180608024500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608024500 -0300" stop="20180608031500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <category lang="pt">Variedades/Comportamento</category>
+  </programme>
+  <programme start="20180608031500 -0300" stop="20180608034500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Em Busca do Amor</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608034500 -0300" stop="20180608040000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608040000 -0300" stop="20180608043000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nosso Tempo</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608043000 -0300" stop="20180608050000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608050000 -0300" stop="20180608053000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608053000 -0300" stop="20180608055500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nação dos 318</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608055500 -0300" stop="20180608060000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180608060000 -0300" stop="20180608063000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608063000 -0300" stop="20180608070000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608070000 -0300" stop="20180608083000 -0300" channel="Record [Brazil]">
+    <title lang="pt">SP no Ar</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608083000 -0300" stop="20180608100000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608100000 -0300" stop="20180608120000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Hoje em Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608120000 -0300" stop="20180608150000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608150000 -0300" stop="20180608154500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Luz do Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608154500 -0300" stop="20180608164500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Bicho do Mato</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608164500 -0300" stop="20180608194500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Cidade Alerta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608194500 -0300" stop="20180608204500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608204500 -0300" stop="20180608214500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Apocalipse</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180608214500 -0300" stop="20180608223000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Jornal da Record</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608223000 -0300" stop="20180608233000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Power Couple Brasil</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180608233000 -0300" stop="20180609011500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Super Tela</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180609011500 -0300" stop="20180609020000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609020000 -0300" stop="20180609023000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Problemas e Soluções</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609023000 -0300" stop="20180609024500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609024500 -0300" stop="20180609030000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609030000 -0300" stop="20180609033000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programa do Templo</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609033000 -0300" stop="20180609040000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Congresso Para o Sucesso</title>
+    <category lang="pt">Variedades/Comportamento</category>
+  </programme>
+  <programme start="20180609040000 -0300" stop="20180609043000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nosso Tempo</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609043000 -0300" stop="20180609045500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609045500 -0300" stop="20180609052500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Nação dos 318</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609052500 -0300" stop="20180609053000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programação IURD</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609053000 -0300" stop="20180609070000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180609070000 -0300" stop="20180609101500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Fala Brasil Especial</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609101500 -0300" stop="20180609120000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Esporte Fantástico</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609120000 -0300" stop="20180609130000 -0300" channel="Record [Brazil]">
+    <title lang="pt">The Love School - A Escola do Amor</title>
+    <category lang="pt">Variedades/Comportamento</category>
+  </programme>
+  <programme start="20180609130000 -0300" stop="20180609150000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Balanço Geral Especial</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609150000 -0300" stop="20180609164500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Cine Aventura</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180609164500 -0300" stop="20180609194500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Cidade Alerta Especial</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609194500 -0300" stop="20180609203000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Jornal da Record Especial</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609203000 -0300" stop="20180609221500 -0300" channel="Record [Brazil]">
+    <title lang="pt">Rei Davi</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180609221500 -0300" stop="20180610003000 -0300" channel="Record [Brazil]">
+    <title lang="pt">Programa da Sabrina</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+</tv>
